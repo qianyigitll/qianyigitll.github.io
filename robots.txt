@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://qianyigitll.github.io/ABC/sitemap_index.txt
